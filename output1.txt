@@ -1,0 +1,121 @@
+Il corpus Metamorphosis.txt contiene: 731 frasi e  25136 token.
+La lunghezza media delle frasi è di 34.38577291381669 token per frase; la lunghezza media dei token è: 4.115820321042733 caratteri per token.
+
+Il corpus MarkMansonBlog.txt contiene: 1302 frasi e  26805 token.
+La lunghezza media delle frasi è di 20.587557603686637 token per frase; la lunghezza media dei token è: 4.416749667994688 caratteri per token.
+
+Numero di Hapax nei primi 1000 token del corpus Metamorphosis.txt : 62
+Numero di Hapax nei primi 1000 token del corpus MarkMansonBlog.txt : 127
+
+Vocabolario e TTR incrementale del corpus Metamorphosis.txt
+Intervallo 0 - 500 	Vocabolario:  264 	TTR: 0.528
+Intervallo 0 - 1000 	Vocabolario:  412 	TTR: 0.412
+Intervallo 0 - 1500 	Vocabolario:  543 	TTR: 0.362
+Intervallo 0 - 2000 	Vocabolario:  652 	TTR: 0.326
+Intervallo 0 - 2500 	Vocabolario:  732 	TTR: 0.2928
+Intervallo 0 - 3000 	Vocabolario:  831 	TTR: 0.277
+Intervallo 0 - 3500 	Vocabolario:  904 	TTR: 0.2582857142857143
+Intervallo 0 - 4000 	Vocabolario:  958 	TTR: 0.2395
+Intervallo 0 - 4500 	Vocabolario:  1031 	TTR: 0.2291111111111111
+Intervallo 0 - 5000 	Vocabolario:  1084 	TTR: 0.2168
+Intervallo 0 - 5500 	Vocabolario:  1155 	TTR: 0.21
+Intervallo 0 - 6000 	Vocabolario:  1209 	TTR: 0.2015
+Intervallo 0 - 6500 	Vocabolario:  1272 	TTR: 0.1956923076923077
+Intervallo 0 - 7000 	Vocabolario:  1324 	TTR: 0.18914285714285714
+Intervallo 0 - 7500 	Vocabolario:  1382 	TTR: 0.18426666666666666
+Intervallo 0 - 8000 	Vocabolario:  1437 	TTR: 0.179625
+Intervallo 0 - 8500 	Vocabolario:  1498 	TTR: 0.17623529411764705
+Intervallo 0 - 9000 	Vocabolario:  1547 	TTR: 0.1718888888888889
+Intervallo 0 - 9500 	Vocabolario:  1593 	TTR: 0.1676842105263158
+Intervallo 0 - 10000 	Vocabolario:  1660 	TTR: 0.166
+Intervallo 0 - 10500 	Vocabolario:  1707 	TTR: 0.16257142857142856
+Intervallo 0 - 11000 	Vocabolario:  1755 	TTR: 0.15954545454545455
+Intervallo 0 - 11500 	Vocabolario:  1809 	TTR: 0.15730434782608696
+Intervallo 0 - 12000 	Vocabolario:  1870 	TTR: 0.15583333333333332
+Intervallo 0 - 12500 	Vocabolario:  1905 	TTR: 0.1524
+Intervallo 0 - 13000 	Vocabolario:  1933 	TTR: 0.14869230769230768
+Intervallo 0 - 13500 	Vocabolario:  1963 	TTR: 0.1454074074074074
+Intervallo 0 - 14000 	Vocabolario:  1993 	TTR: 0.14235714285714285
+Intervallo 0 - 14500 	Vocabolario:  2024 	TTR: 0.1395862068965517
+Intervallo 0 - 15000 	Vocabolario:  2062 	TTR: 0.13746666666666665
+Intervallo 0 - 15500 	Vocabolario:  2099 	TTR: 0.13541935483870968
+Intervallo 0 - 16000 	Vocabolario:  2137 	TTR: 0.1335625
+Intervallo 0 - 16500 	Vocabolario:  2191 	TTR: 0.1327878787878788
+Intervallo 0 - 17000 	Vocabolario:  2244 	TTR: 0.132
+Intervallo 0 - 17500 	Vocabolario:  2284 	TTR: 0.13051428571428572
+Intervallo 0 - 18000 	Vocabolario:  2328 	TTR: 0.12933333333333333
+Intervallo 0 - 18500 	Vocabolario:  2373 	TTR: 0.12827027027027027
+Intervallo 0 - 19000 	Vocabolario:  2407 	TTR: 0.1266842105263158
+Intervallo 0 - 19500 	Vocabolario:  2439 	TTR: 0.12507692307692309
+Intervallo 0 - 20000 	Vocabolario:  2472 	TTR: 0.1236
+Intervallo 0 - 20500 	Vocabolario:  2503 	TTR: 0.12209756097560975
+Intervallo 0 - 21000 	Vocabolario:  2543 	TTR: 0.12109523809523809
+Intervallo 0 - 21500 	Vocabolario:  2581 	TTR: 0.12004651162790697
+Intervallo 0 - 22000 	Vocabolario:  2611 	TTR: 0.11868181818181818
+Intervallo 0 - 22500 	Vocabolario:  2638 	TTR: 0.11724444444444444
+Intervallo 0 - 23000 	Vocabolario:  2660 	TTR: 0.11565217391304349
+Intervallo 0 - 23500 	Vocabolario:  2697 	TTR: 0.11476595744680851
+Intervallo 0 - 24000 	Vocabolario:  2724 	TTR: 0.1135
+Intervallo 0 - 24500 	Vocabolario:  2760 	TTR: 0.1126530612244898
+Intervallo 0 - 25000 	Vocabolario:  2797 	TTR: 0.11188
+Intervallo 0 - 25500 	Vocabolario:  2808 	TTR: 0.11171228516868237
+
+Vocabolario e TTR incrementale del corpus MarkMansonBlog.txt
+Intervallo 0 - 500 	Vocabolario:  277 	TTR: 0.554
+Intervallo 0 - 1000 	Vocabolario:  444 	TTR: 0.444
+Intervallo 0 - 1500 	Vocabolario:  590 	TTR: 0.3933333333333333
+Intervallo 0 - 2000 	Vocabolario:  717 	TTR: 0.3585
+Intervallo 0 - 2500 	Vocabolario:  833 	TTR: 0.3332
+Intervallo 0 - 3000 	Vocabolario:  949 	TTR: 0.31633333333333336
+Intervallo 0 - 3500 	Vocabolario:  1053 	TTR: 0.3008571428571429
+Intervallo 0 - 4000 	Vocabolario:  1160 	TTR: 0.29
+Intervallo 0 - 4500 	Vocabolario:  1272 	TTR: 0.2826666666666667
+Intervallo 0 - 5000 	Vocabolario:  1387 	TTR: 0.2774
+Intervallo 0 - 5500 	Vocabolario:  1511 	TTR: 0.2747272727272727
+Intervallo 0 - 6000 	Vocabolario:  1640 	TTR: 0.2733333333333333
+Intervallo 0 - 6500 	Vocabolario:  1754 	TTR: 0.26984615384615385
+Intervallo 0 - 7000 	Vocabolario:  1838 	TTR: 0.26257142857142857
+Intervallo 0 - 7500 	Vocabolario:  1925 	TTR: 0.25666666666666665
+Intervallo 0 - 8000 	Vocabolario:  2006 	TTR: 0.25075
+Intervallo 0 - 8500 	Vocabolario:  2094 	TTR: 0.24635294117647058
+Intervallo 0 - 9000 	Vocabolario:  2171 	TTR: 0.24122222222222223
+Intervallo 0 - 9500 	Vocabolario:  2224 	TTR: 0.23410526315789473
+Intervallo 0 - 10000 	Vocabolario:  2308 	TTR: 0.2308
+Intervallo 0 - 10500 	Vocabolario:  2370 	TTR: 0.2257142857142857
+Intervallo 0 - 11000 	Vocabolario:  2429 	TTR: 0.22081818181818183
+Intervallo 0 - 11500 	Vocabolario:  2489 	TTR: 0.21643478260869564
+Intervallo 0 - 12000 	Vocabolario:  2552 	TTR: 0.21266666666666667
+Intervallo 0 - 12500 	Vocabolario:  2622 	TTR: 0.20976
+Intervallo 0 - 13000 	Vocabolario:  2693 	TTR: 0.20715384615384616
+Intervallo 0 - 13500 	Vocabolario:  2749 	TTR: 0.20362962962962963
+Intervallo 0 - 14000 	Vocabolario:  2814 	TTR: 0.201
+Intervallo 0 - 14500 	Vocabolario:  2878 	TTR: 0.19848275862068965
+Intervallo 0 - 15000 	Vocabolario:  2936 	TTR: 0.19573333333333334
+Intervallo 0 - 15500 	Vocabolario:  2981 	TTR: 0.19232258064516128
+Intervallo 0 - 16000 	Vocabolario:  3042 	TTR: 0.190125
+Intervallo 0 - 16500 	Vocabolario:  3083 	TTR: 0.18684848484848485
+Intervallo 0 - 17000 	Vocabolario:  3144 	TTR: 0.18494117647058825
+Intervallo 0 - 17500 	Vocabolario:  3188 	TTR: 0.18217142857142857
+Intervallo 0 - 18000 	Vocabolario:  3240 	TTR: 0.18
+Intervallo 0 - 18500 	Vocabolario:  3280 	TTR: 0.1772972972972973
+Intervallo 0 - 19000 	Vocabolario:  3337 	TTR: 0.17563157894736842
+Intervallo 0 - 19500 	Vocabolario:  3385 	TTR: 0.17358974358974358
+Intervallo 0 - 20000 	Vocabolario:  3439 	TTR: 0.17195
+Intervallo 0 - 20500 	Vocabolario:  3496 	TTR: 0.17053658536585367
+Intervallo 0 - 21000 	Vocabolario:  3533 	TTR: 0.16823809523809524
+Intervallo 0 - 21500 	Vocabolario:  3585 	TTR: 0.16674418604651162
+Intervallo 0 - 22000 	Vocabolario:  3627 	TTR: 0.16486363636363635
+Intervallo 0 - 22500 	Vocabolario:  3672 	TTR: 0.1632
+Intervallo 0 - 23000 	Vocabolario:  3715 	TTR: 0.16152173913043477
+Intervallo 0 - 23500 	Vocabolario:  3766 	TTR: 0.16025531914893618
+Intervallo 0 - 24000 	Vocabolario:  3812 	TTR: 0.15883333333333333
+Intervallo 0 - 24500 	Vocabolario:  3873 	TTR: 0.15808163265306122
+Intervallo 0 - 25000 	Vocabolario:  3910 	TTR: 0.1564
+Intervallo 0 - 25500 	Vocabolario:  3963 	TTR: 0.15541176470588236
+Intervallo 0 - 26000 	Vocabolario:  4002 	TTR: 0.1539230769230769
+Intervallo 0 - 26500 	Vocabolario:  4041 	TTR: 0.15249056603773584
+Intervallo 0 - 27000 	Vocabolario:  4063 	TTR: 0.15157619847043463
+
+Il corpus Metamorphosis.txt è costituito da: 49.66183959261617 % parole piene e 34.030872056015276 % di parole funzionali
+
+Il corpus MarkMansonBlog.txt è costituito da: 51.423241932475285 % parole piene e 31.348628987129267 % di parole funzionali

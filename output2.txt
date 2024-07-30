@@ -1,0 +1,351 @@
+Distribuzioni POS del corpus Metamorphosis.txt
+
+Le dieci Part of Speech più frequenti
+NN 		Frequenza: 3280
+IN 		Frequenza: 2932
+RB 		Frequenza: 1966
+PRP 		Frequenza: 1922
+DT 		Frequenza: 1909
+VBD 		Frequenza: 1892
+, 		Frequenza: 1293
+JJ 		Frequenza: 1269
+VB 		Frequenza: 1141
+CC 		Frequenza: 852
+
+I dieci bigrammi Part of Speech più frequenti
+DT - NN 		Frequenza: 1106
+IN - DT 		Frequenza: 893
+NN - IN 		Frequenza: 787
+PRP - VBD 		Frequenza: 778
+PRP$ - NN 		Frequenza: 573
+IN - PRP 		Frequenza: 553
+TO - VB 		Frequenza: 515
+JJ - NN 		Frequenza: 514
+NN - , 		Frequenza: 490
+VBD - RB 		Frequenza: 437
+
+I dieci trigrammi Part of Speech più frequenti
+IN - DT - NN 		Frequenza: 555
+DT - NN - IN 		Frequenza: 338
+DT - JJ - NN 		Frequenza: 278
+NN - IN - DT 		Frequenza: 263
+IN - PRP$ - NN 		Frequenza: 244
+IN - PRP - VBD 		Frequenza: 238
+PRP - VBD - RB 		Frequenza: 200
+IN - DT - JJ 		Frequenza: 176
+DT - NN - , 		Frequenza: 153
+PRP - MD - VB 		Frequenza: 144
+
+I venti aggettivi più frequenti
+little 		Frequenza: 48
+’ 		Frequenza: 46
+other 		Frequenza: 43
+more 		Frequenza: 29
+“ 		Frequenza: 26
+s 		Frequenza: 26
+first 		Frequenza: 26
+able 		Frequenza: 23
+chief 		Frequenza: 23
+possible 		Frequenza: 18
+much 		Frequenza: 18
+flat 		Frequenza: 18
+good 		Frequenza: 18
+next 		Frequenza: 17
+open 		Frequenza: 17
+same 		Frequenza: 16
+better 		Frequenza: 16
+long 		Frequenza: 12
+new 		Frequenza: 12
+old 		Frequenza: 12
+
+I venti avverbi più frequenti
+not 		Frequenza: 174
+even 		Frequenza: 78
+now 		Frequenza: 74
+then 		Frequenza: 69
+so 		Frequenza: 60
+back 		Frequenza: 56
+only 		Frequenza: 53
+there 		Frequenza: 46
+just 		Frequenza: 46
+still 		Frequenza: 44
+more 		Frequenza: 40
+again 		Frequenza: 39
+very 		Frequenza: 33
+quite 		Frequenza: 30
+soon 		Frequenza: 30
+too 		Frequenza: 29
+as 		Frequenza: 26
+away 		Frequenza: 25
+well 		Frequenza: 24
+already 		Frequenza: 23
+
+
+Distribuzioni POS del corpus MarkMansonBlog.txt
+
+Le dieci Part of Speech più frequenti
+NN 		Frequenza: 3418
+IN 		Frequenza: 2673
+JJ 		Frequenza: 2086
+DT 		Frequenza: 2003
+PRP 		Frequenza: 1907
+RB 		Frequenza: 1338
+. 		Frequenza: 1334
+VB 		Frequenza: 1327
+NNS 		Frequenza: 1321
+, 		Frequenza: 1185
+
+I dieci bigrammi Part of Speech più frequenti
+DT - NN 		Frequenza: 922
+JJ - NN 		Frequenza: 751
+PRP - VBP 		Frequenza: 738
+NN - IN 		Frequenza: 736
+IN - DT 		Frequenza: 667
+TO - VB 		Frequenza: 498
+DT - JJ 		Frequenza: 490
+NN - . 		Frequenza: 470
+IN - PRP 		Frequenza: 439
+NN - , 		Frequenza: 423
+
+I dieci trigrammi Part of Speech più frequenti
+IN - DT - NN 		Frequenza: 336
+DT - JJ - NN 		Frequenza: 311
+DT - NN - IN 		Frequenza: 284
+PRP - VBP - JJ 		Frequenza: 181
+IN - PRP - VBP 		Frequenza: 181
+JJ - NN - IN 		Frequenza: 177
+NN - IN - DT 		Frequenza: 168
+IN - DT - JJ 		Frequenza: 157
+PRP - MD - VB 		Frequenza: 144
+NN - IN - NN 		Frequenza: 142
+
+I venti aggettivi più frequenti
+’ 		Frequenza: 102
+s 		Frequenza: 51
+more 		Frequenza: 40
+own 		Frequenza: 40
+re 		Frequenza: 37
+other 		Frequenza: 36
+good 		Frequenza: 36
+true 		Frequenza: 36
+“ 		Frequenza: 36
+new 		Frequenza: 30
+t 		Frequenza: 22
+important 		Frequenza: 21
+bad 		Frequenza: 21
+happy 		Frequenza: 21
+better 		Frequenza: 20
+able 		Frequenza: 19
+great 		Frequenza: 18
+most 		Frequenza: 18
+” 		Frequenza: 18
+such 		Frequenza: 18
+
+I venti avverbi più frequenti
+not 		Frequenza: 105
+just 		Frequenza: 54
+more 		Frequenza: 48
+then 		Frequenza: 48
+never 		Frequenza: 43
+only 		Frequenza: 34
+often 		Frequenza: 32
+even 		Frequenza: 32
+so 		Frequenza: 32
+back 		Frequenza: 27
+also 		Frequenza: 24
+really 		Frequenza: 23
+always 		Frequenza: 21
+now 		Frequenza: 19
+well 		Frequenza: 19
+most 		Frequenza: 19
+again 		Frequenza: 18
+simply 		Frequenza: 17
+here 		Frequenza: 17
+actually 		Frequenza: 16
+
+
+Analisi dei 20 bigrammi Aggettivo-Sostantivo del corpus Metamorphosis.txt
+
+I venti bigrammi composti da aggettivo e sostantivo con frequenza massima:
+chief - clerk 		Frequenza: 23
+’ - t 		Frequenza: 19
+’ - t 		Frequenza: 13
+next - room 		Frequenza: 7
+other - side 		Frequenza: 6
+little - legs 		Frequenza: 6
+long - time 		Frequenza: 5
+“ - Gregor 		Frequenza: 5
+same - time 		Frequenza: 5
+lower - part 		Frequenza: 4
+other - way 		Frequenza: 4
+little - while 		Frequenza: 4
+several - times 		Frequenza: 4
+present - state 		Frequenza: 3
+other - hand 		Frequenza: 3
+right - hand 		Frequenza: 3
+first - day 		Frequenza: 3
+other - room 		Frequenza: 3
+middle - gentleman 		Frequenza: 3
+little - bit 		Frequenza: 2
+
+I venti bigrammi composti da aggettivo e sostantivo con probabilità condizionata massima:
+chief - clerk 		Probabilità condizionata: 0.6216216216216216
+lower - part 		Probabilità condizionata: 0.5714285714285714
+empty - room 		Probabilità condizionata: 0.5
+several - times 		Probabilità condizionata: 0.5
+next - room 		Probabilità condizionata: 0.3888888888888889
+present - state 		Probabilità condizionata: 0.375
+fresh - air 		Probabilità condizionata: 0.3333333333333333
+same - time 		Probabilità condizionata: 0.3125
+middle - gentleman 		Probabilità condizionata: 0.2727272727272727
+uniform - coat 		Probabilità condizionata: 0.25
+dark - eyes 		Probabilità condizionata: 0.25
+entire - body 		Probabilità condizionata: 0.25
+best - way 		Probabilità condizionata: 0.25
+loud - noise 		Probabilità condizionata: 0.25
+heavy - fur 		Probabilità condizionata: 0.25
+best - thing 		Probabilità condizionata: 0.25
+best - intentions 		Probabilità condizionata: 0.25
+animal - ” 		Probabilità condizionata: 0.25
+such - things 		Probabilità condizionata: 0.25
+loud - “ 		Probabilità condizionata: 0.25
+
+I venti bigrammi composti da aggettivo e sostantivo con Local Mutual Information massima:
+chief - clerk 		LMI: 200.6088218721461
+’ - t 		LMI: 86.71543445298587
+’ - t 		LMI: 52.214271707847395
+lower - part 		LMI: 44.01103048471595
+other - side 		LMI: 43.90040155605574
+next - room 		LMI: 43.705690913403636
+little - legs 		LMI: 43.59475216207669
+several - times 		LMI: 38.84230747874271
+same - time 		LMI: 35.28376255409859
+long - time 		LMI: 33.32217544020479
+middle - gentleman 		LMI: 31.26321075747208
+present - state 		LMI: 29.64150561338397
+little - while 		LMI: 22.723318105166502
+right - hand 		LMI: 22.48521250180341
+uniform - coat 		LMI: 21.23493493058839
+other - way 		LMI: 21.041861492116848
+fresh - air 		LMI: 20.895084927703767
+loud - noise 		LMI: 19.23493493058839
+other - hand 		LMI: 18.95020077802787
+old - days 		LMI: 18.895084927703767
+
+
+Analisi dei 20 bigrammi Aggettivo-Sostantivo del corpus MarkMansonBlog.txt
+
+I venti bigrammi composti da aggettivo e sostantivo con frequenza massima:
+’ - t 		Frequenza: 68
+Negative - Self-Help 		Frequenza: 10
+other - people 		Frequenza: 10
+’ - t 		Frequenza: 9
+young - man 		Frequenza: 8
+positive - self-help 		Frequenza: 6
+Positive - self-help 		Frequenza: 6
+happy - humans 		Frequenza: 6
+’ - s 		Frequenza: 5
+only - thing 		Frequenza: 5
+dissatisfied - humans 		Frequenza: 5
+other - relationships 		Frequenza: 5
+s - life 		Frequenza: 4
+many - times 		Frequenza: 3
+many - cases 		Frequenza: 3
+social - definition 		Frequenza: 3
+first - place 		Frequenza: 3
+Negative - Self-Help 		Frequenza: 3
+little - bit 		Frequenza: 3
+same - thing 		Frequenza: 3
+
+I venti bigrammi composti da aggettivo e sostantivo con probabilità condizionata massima:
+Positive - self-help 		Probabilità condizionata: 0.75
+young - man 		Probabilità condizionata: 0.7272727272727273
+positive - self-help 		Probabilità condizionata: 0.6666666666666666
+dissatisfied - humans 		Probabilità condizionata: 0.625
+Negative - Self-Help 		Probabilità condizionata: 0.625
+short - period 		Probabilità condizionata: 0.5
+supernatural - stuff 		Probabilità condizionata: 0.5
+supernatural - beliefs 		Probabilità condizionata: 0.5
+Most - people 		Probabilità condizionata: 0.42857142857142855
+video - games 		Probabilità condizionata: 0.42857142857142855
+entire - identity 		Probabilità condizionata: 0.4
+biological - definition 		Probabilità condizionata: 0.4
+belief - systems 		Probabilità condizionata: 0.3333333333333333
+conscious - experience 		Probabilità condizionata: 0.3333333333333333
+happy - humans 		Probabilità condizionata: 0.2857142857142857
+horrible - things 		Probabilità condizionata: 0.2857142857142857
+other - people 		Probabilità condizionata: 0.2777777777777778
+strong - sense 		Probabilità condizionata: 0.25
+selfish - thoughts 		Probabilità condizionata: 0.25
+short - list 		Probabilità condizionata: 0.25
+
+I venti bigrammi composti da aggettivo e sostantivo con Local Mutual Information massima:
+’ - t 		LMI: 306.9526928118016
+Negative - Self-Help 		LMI: 97.84215096093786
+young - man 		LMI: 85.32656316233245
+Positive - self-help 		LMI: 63.56842378338044
+positive - self-help 		LMI: 62.54887377472656
+other - people 		LMI: 61.07330105931591
+happy - humans 		LMI: 51.929592474892914
+dissatisfied - humans 		LMI: 48.92107548046893
+only - thing 		LMI: 34.254951763359024
+other - relationships 		LMI: 32.1797642669648
+video - games 		LMI: 32.04140151376787
+many - cases 		LMI: 30.62314252236248
+social - approval 		LMI: 29.708578777777213
+social - definition 		LMI: 28.463466279940683
+many - times 		LMI: 27.11336751803554
+first - place 		LMI: 26.78656440337605
+little - bit 		LMI: 26.24484766645059
+Negative - Self-Help 		LMI: 24.141748505782736
+short - period 		LMI: 23.420429029300017
+supernatural - stuff 		LMI: 22.776572839525294
+
+
+Analisi delle frasi del corpus Metamorphosis.txt
+La frase con media della distribuzione di frequenza dei token più alta è: Now, though, the charwoman was
+here. con distribuzione media di 537.3333333333334
+La frase con media della distribuzione di frequenza dei token più bassa è: Will you please just let me leave? con distribuzione media di 26.625
+La frase con probabilità più alta secondo il modello markoviano di II ordine è: Gregor had almost entirely stopped eating. con probabilità  3.978357733927435e-05
+
+
+Analisi delle frasi del corpus MarkMansonBlog.txt
+La frase con media della distribuzione di frequenza dei token più alta è: We lose family, friends, relationships, jobs, and communities. con distribuzione media di 520.8461538461538
+La frase con media della distribuzione di frequenza dei token più bassa è: What if she leaves me? con distribuzione media di 40.333333333333336
+La frase con probabilità più alta secondo il modello markoviano di II ordine è: I’M NOT MAD! con probabilità  7.461294534601753e-05
+
+
+I nomi propri di persona più frequenti del corpus Metamorphosis.txt
+ Gregor 	Frequenza: 118
+ Mr. Samsa 	Frequenza: 15
+ Grete 	Frequenza: 11
+ Samsa 	Frequenza: 7
+ Mr. 	Frequenza: 5
+ Mother 	Frequenza: 4
+ God 	Frequenza: 3
+ Aren 	Frequenza: 2
+ Anna 	Frequenza: 2
+ Hardly 	Frequenza: 2
+ Help 	Frequenza: 2
+ Father 	Frequenza: 2
+ Gregor Samsa 	Frequenza: 1
+ Didn 	Frequenza: 1
+ Sir 	Frequenza: 1
+
+
+I nomi propri di persona più frequenti del corpus MarkMansonBlog.txt
+ Hume 	Frequenza: 6
+ Nietzsche 	Frequenza: 6
+ Stage Three 	Frequenza: 5
+ Beauvoir 	Frequenza: 4
+ Marx 	Frequenza: 3
+ Descartes 	Frequenza: 3
+ Mark 	Frequenza: 3
+ Don 	Frequenza: 3
+ Stage One 	Frequenza: 3
+ Stage 	Frequenza: 3
+ Stage Four 	Frequenza: 3
+ Jean-Paul Sartre 	Frequenza: 2
+ Whereas 	Frequenza: 2
+ Simone 	Frequenza: 2
+ Silicon Valley 	Frequenza: 2
